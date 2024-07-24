@@ -1,0 +1,28 @@
+{
+    "pokemon":[
+        {
+            "id":"0001",
+            "pic":"./assets/0001.png",
+            "ChName":"妙蛙種子",
+            "EnName":"Bulbasaur",
+            "attributes1":"Grass",
+            "attributes2":"Poison"
+        },
+        {
+            "id":"0002",
+            "pic":"./assets/0002.png",
+            "ChName":"妙蛙草",
+            "EnName":"Ivysaur",
+            "attributes1":"Grass",
+            "attributes2":"Poison"
+        },
+        {
+            "id":"0003",
+            "pic":"./assets/0003.png",
+            "ChName":"妙蛙花",
+            "EnName":"Venusaur",
+            "attributes1":"Grass",
+            "attributes2":"Poison"
+        }
+    ]
+}
